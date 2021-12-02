@@ -1,0 +1,23 @@
+{
+  "name": "My Awesome NFT #4",
+  "description": "Made with love by AE",
+  "image": "http://localhost:3000/api/4.png",
+  "dna": "fafccf415d69bcd4baa4823a5eb508ae9b49743d",
+  "edition": 4,
+  "date": 1638405300027,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Triangle",
+      "value": "Salmon"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Sky"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

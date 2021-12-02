@@ -1,0 +1,232 @@
+[
+  {
+    "name": "My Awesome NFT #0",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/0.png",
+    "dna": "3d7ea53241e10810fd146c1a37db56365c7c8d5e",
+    "edition": 0,
+    "date": 1638405299897,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moon"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My Awesome NFT #1",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/1.png",
+    "dna": "5a74a2bfd2156fe91b2c938e089bc1ba0941f63c",
+    "edition": 1,
+    "date": 1638405299933,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Square",
+        "value": "BlackWhite"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My Awesome NFT #2",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/2.png",
+    "dna": "f73d5ebbbfadf08370c71ebe1dd726c844aa24ee",
+    "edition": 2,
+    "date": 1638405299965,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moon"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Salmon"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Banana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My Awesome NFT #3",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/3.png",
+    "dna": "8be7e8000b0890db021b1032aa997786b65cf8de",
+    "edition": 3,
+    "date": 1638405299994,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Salmon"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Salmon"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Banana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My Awesome NFT #4",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/4.png",
+    "dna": "fafccf415d69bcd4baa4823a5eb508ae9b49743d",
+    "edition": 4,
+    "date": 1638405300027,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moon"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Salmon"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Sky"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My Awesome NFT #5",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/5.png",
+    "dna": "a5facd4e41d14e705a3a72936f4a262475d93028",
+    "edition": 5,
+    "date": 1638405300054,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Salmon"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Banana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My Awesome NFT #6",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/6.png",
+    "dna": "bf2716f315d48c809723c07d64079418f60f519f",
+    "edition": 6,
+    "date": 1638405300081,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Salmon"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Sky"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My Awesome NFT #7",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/7.png",
+    "dna": "aba9396a38ab3c6e7e8d04c87954b0373551ea3c",
+    "edition": 7,
+    "date": 1638405300112,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moon"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Star"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My Awesome NFT #8",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/8.png",
+    "dna": "87c3b18890cbc2e633040a373039e9d65685e50f",
+    "edition": 8,
+    "date": 1638405300138,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Sky"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My Awesome NFT #9",
+    "description": "Made with love by AE",
+    "image": "http://localhost:3000/api/9.png",
+    "dna": "c0ce016db8f9a9aba0777874b716118a85cf93a9",
+    "edition": 9,
+    "date": 1638405300164,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Triangle",
+        "value": "Star"
+      },
+      {
+        "trait_type": "Square",
+        "value": "Normal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

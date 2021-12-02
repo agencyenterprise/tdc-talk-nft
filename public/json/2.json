@@ -1,0 +1,23 @@
+{
+  "name": "My Awesome NFT #2",
+  "description": "Made with love by AE",
+  "image": "http://localhost:3000/api/2.png",
+  "dna": "f73d5ebbbfadf08370c71ebe1dd726c844aa24ee",
+  "edition": 2,
+  "date": 1638405299965,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Triangle",
+      "value": "Salmon"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Banana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
